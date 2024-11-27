@@ -2,6 +2,7 @@
 
 {{വ|ആശാൻ}} -right align
 
+{{ന|{{bar}}}}   -underline with center align
 
 {{ന|'''കേരള പാഠാവലി'''}} -center align with bold text
 
