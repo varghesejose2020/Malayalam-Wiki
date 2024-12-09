@@ -11,3 +11,7 @@
 {{TOC row 1-1-1|19.|ആരോഗ്യം|..  60}}
 {{TOC row 1-1-1|20.|ഉറിയിൽ തൂങ്ങിയ ഉണ്ണിക്കൃഷ്ണൻ (പദ്യം)|..  64}}
 {{TOC end}}
+
+
+{{c|{{xx-larger|പതിനൊന്നാം അദ്ധ്യായം}}}}- center with larger text
+{{rule|15em}}-under line
