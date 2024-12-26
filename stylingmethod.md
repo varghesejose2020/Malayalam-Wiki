@@ -1,6 +1,8 @@
-{ന|സ്റ്റാൻഡേർഡ് - 3}} -center align
+{{ന|സ്റ്റാൻഡേർഡ് - 3}} -center align
 
 {{വ|ആശാൻ}} -right align
+
+{{ഇ|ആശാൻ}} -Left Align
 
 {{ന|{{bar}}}}   -underline with center align
 
